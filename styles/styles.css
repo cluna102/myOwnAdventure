@@ -30,3 +30,10 @@ h1 {
     font-size: 7px;
     color: crimson;
 }
+
+.home{
+    font-family: Impact, sans-serif;
+    text-transform: uppercase;
+    color: crimson;
+
+}
